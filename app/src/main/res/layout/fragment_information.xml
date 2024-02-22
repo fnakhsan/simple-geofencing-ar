@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".InformationFragment">
+
+    <TextView
+        style="@style/TextAppearance.Material3.HeadlineLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="8dp"
+        android:text="@string/species" />
+
+    <TextView
+        style="@style/TextAppearance.Material3.BodyLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/location" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My AR</string>
+    <string name="place">Place</string>
+    <string name="change_model">Change Model</string>
+    <string name="info">Information</string>
+    <string name="instant_placement">Instant Placement</string>
+    <string name="depth_placement">Depth Placement</string>
+    <string name="plane_placement">Plane Placement</string>
+    <string name="best_placement">Best Placement</string>
+    <string name="point_your_phone_down">Point your phone down at an empty space, and move it around slowly</string>
+    <string name="species">Octopus minor</string>
+    <string name="location">Genkai-nada, Fukuoka, Japan. 玄界灘産</string>
+</resources>
